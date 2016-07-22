@@ -10,5 +10,5 @@ app.use(express.static(__dirname + '/public'));
 
 
 app.listen(3000, function(){
-	console.log('Express Started');
+	console.log('Express Started!');
 });
